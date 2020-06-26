@@ -1,9 +1,16 @@
-## I'm Liz, and I build beautiful, interactive websites.
 
-![Image](src)
+[Image](https://www.kensington.com/siteassets/blog/2018/10---october/minimalist-guide-blog-1.jpg?width=1000&height=667)
+   ## I'm Liz, and I build beautiful, interactive websites.
 
+________________________________________________________________________________________________
+### See My Work:
+- [BradfordMetcalf.com](http://www.BradfordMetcalf.com/)
+- [MetcalfMedia.com](http://www.MetcalfMedia.com/)
+- [GitHub](http://www.github.com/kmetcalf22/kmetcalf22.github.io)
 
+### Contact Me:
+- Email Address
+- GitHub
+- LinkedIn
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+CopyRight @ 2020 Metcalf Media Limited.
