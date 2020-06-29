@@ -1,6 +1,5 @@
 
-[Image](https://www.kensington.com/siteassets/blog/2018/10---october/minimalist-guide-blog-1.jpg?width=1000&height=667)
-   ## I'm Liz, and I build beautiful, interactive websites.
+## I'm Liz, and I build [beautiful, interactive websites.](http://www.MetcalfMedia.com/)
 
 ________________________________________________________________________________________________
 ### See My Work:
