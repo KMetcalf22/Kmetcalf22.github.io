@@ -1,5 +1,7 @@
 
-## I'm Liz, and I build [beautiful, interactive websites.](http://www.MetcalfMedia.com/)
+## I'm Karen, and I build [beautiful, interactive websites.](http://www.MetcalfMedia.com/)
+
+![Typing](C:/Users/
 
 ________________________________________________________________________________________________
 ### See My Work:
@@ -8,8 +10,8 @@ ________________________________________________________________________________
 - [GitHub](http://www.github.com/kmetcalf22/kmetcalf22.github.io)
 
 ### Contact Me:
-- Email Address
-- GitHub
-- LinkedIn
+- Email: Professional
+- GitHub:KMetcalf22
+- LinkedIn: Karen Metcalf
 
 CopyRight @ 2020 Metcalf Media Limited.
