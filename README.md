@@ -1,8 +1,5 @@
 
-## I'm Karen, and I build [beautiful, interactive websites.](http://www.MetcalfMedia.com/)
-
-![Typing](C:/Users/
-
+## Need a Front End Developer?
 ________________________________________________________________________________________________
 ### See My Work:
 - [BradfordMetcalf.com](http://www.BradfordMetcalf.com/)
