@@ -14,9 +14,14 @@ button {
   font-size: large;
   font-family: 'Lucida Sans', 'Lucida Sans Regular';
   accent-color: green;
-  padding-inline-start: 5%;
+  padding-inline-start: 10%;
 }
 
 section-a {
-  
+
+}
+
+media button {
+  padding: 20px;
+  color:blueviolet;
 }
