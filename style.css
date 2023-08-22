@@ -14,5 +14,5 @@ button {
   font-size: large;
   font-family: 'Lucida Sans', 'Lucida Sans Regular';
   accent-color: green;
-  
+  padding-inline-start: 5%;
 }
