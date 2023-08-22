@@ -17,8 +17,11 @@ button {
   padding-inline-start: 10%;
 }
 
-section-a {
-
+bio {
+color: blue;
+font-size: large;
+font-family: 'Courier New', Courier, monospace;
+border-radius: 10 px;
 }
 
 media button {
