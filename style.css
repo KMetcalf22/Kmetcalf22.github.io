@@ -25,3 +25,9 @@ media button {
   padding: 20px;
   color:blueviolet;
 }
+
+h3 {
+  font-size: large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-color: aqua;
+}
