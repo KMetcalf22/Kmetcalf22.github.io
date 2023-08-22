@@ -7,4 +7,12 @@ font-family: 'Courier New', Courier, monospace;
 color:blueviolet;
 }
 
-
+button {
+  border: 20px 20px 20px 20px;
+  border-color: black;
+  border-width: 5px;
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular';
+  accent-color: green;
+  
+}
