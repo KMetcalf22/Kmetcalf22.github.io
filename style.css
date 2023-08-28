@@ -15,16 +15,17 @@ h1 {
   color:azure;
 }
 
-Showcase {
+/*Showcase {
 font-family: 'Courier New', Courier, monospace;
 color:blueviolet;
-}
+}*/
+
 
 button {
   border: 20px 20px 20px 20px;
-  border-color: black;
+  border-color: white;
   border-width: 5px;
-  font-size: large;
+  font-size: medium;
   font-family: 'Lucida Sans', 'Lucida Sans Regular';
   accent-color: green;
   padding-inline-start: 10%;
@@ -67,7 +68,6 @@ body{
 
  .Header1 {
     
-background-image: url(https://mediad.publicbroadcasting.net/p/kwmu/files/styles/x_large/public/201707/071217_CH_forestparkcuriouslouis_01.JPG);
 background-size: cover;
 background-position: left;
  color: var(--font-color);
